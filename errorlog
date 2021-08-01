@@ -1,0 +1,979 @@
+[ATPP] BlacklistigOtherAR  : Corpse_Human
+Verse.Log:Message(String, Boolean)
+MOARANDROIDS.GC_ATPP:.ctor(Game)
+System.Reflection.MonoCMethod:InternalInvoke(Object, Object[], Exception&)
+System.Reflection.MonoCMethod:InternalInvoke(Object, Object[])
+System.Reflection.MonoCMethod:DoInvoke(Object, BindingFlags, Binder, Object[], CultureInfo)
+System.Reflection.MonoCMethod:Invoke(BindingFlags, Binder, Object[], CultureInfo)
+System.RuntimeType:CreateInstanceImpl(BindingFlags, Binder, Object[], CultureInfo, Object[], StackCrawlMark&)
+System.Activator:CreateInstance(Type, BindingFlags, Binder, Object[], CultureInfo, Object[])
+System.Activator:CreateInstance(Type, Object[])
+Verse.Game:Verse.Game.FillComponents_Patch1(Game)
+Verse.Game:.ctor()
+RimWorld.Page_SelectScenario:RimWorld.Page_SelectScenario.BeginScenarioConfiguration_Patch1(Scenario, Page)
+RimWorld.Page_SelectScenario:CanDoNext()
+RimWorld.Page:DoBottomButtons(Rect, String, String, Action, Boolean, Boolean)
+RimWorld.Page_SelectScenario:DoWindowContents(Rect)
+Verse.Window:InnerWindowOnGUI(Int32)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, Int32, GUISkin, Int32, Single, Single, GUIStyle)
+
+[ATPP] BlacklistigOtherAR  : Corpse_Alien_OrassanHumanHybrid
+Verse.Log:Message(String, Boolean)
+MOARANDROIDS.GC_ATPP:.ctor(Game)
+System.Reflection.MonoCMethod:InternalInvoke(Object, Object[], Exception&)
+System.Reflection.MonoCMethod:InternalInvoke(Object, Object[])
+System.Reflection.MonoCMethod:DoInvoke(Object, BindingFlags, Binder, Object[], CultureInfo)
+System.Reflection.MonoCMethod:Invoke(BindingFlags, Binder, Object[], CultureInfo)
+System.RuntimeType:CreateInstanceImpl(BindingFlags, Binder, Object[], CultureInfo, Object[], StackCrawlMark&)
+System.Activator:CreateInstance(Type, BindingFlags, Binder, Object[], CultureInfo, Object[])
+System.Activator:CreateInstance(Type, Object[])
+Verse.Game:Verse.Game.FillComponents_Patch1(Game)
+Verse.Game:.ctor()
+RimWorld.Page_SelectScenario:RimWorld.Page_SelectScenario.BeginScenarioConfiguration_Patch1(Scenario, Page)
+RimWorld.Page_SelectScenario:CanDoNext()
+RimWorld.Page:DoBottomButtons(Rect, String, String, Action, Boolean, Boolean)
+RimWorld.Page_SelectScenario:DoWindowContents(Rect)
+Verse.Window:InnerWindowOnGUI(Int32)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, Int32, GUISkin, Int32, Single, Single, GUIStyle)
+
+[ATPP] BlacklistigOtherAR  : Corpse_Alien_Orassan
+Verse.Log:Message(String, Boolean)
+MOARANDROIDS.GC_ATPP:.ctor(Game)
+System.Reflection.MonoCMethod:InternalInvoke(Object, Object[], Exception&)
+System.Reflection.MonoCMethod:InternalInvoke(Object, Object[])
+System.Reflection.MonoCMethod:DoInvoke(Object, BindingFlags, Binder, Object[], CultureInfo)
+System.Reflection.MonoCMethod:Invoke(BindingFlags, Binder, Object[], CultureInfo)
+System.RuntimeType:CreateInstanceImpl(BindingFlags, Binder, Object[], CultureInfo, Object[], StackCrawlMark&)
+System.Activator:CreateInstance(Type, BindingFlags, Binder, Object[], CultureInfo, Object[])
+System.Activator:CreateInstance(Type, Object[])
+Verse.Game:Verse.Game.FillComponents_Patch1(Game)
+Verse.Game:.ctor()
+RimWorld.Page_SelectScenario:RimWorld.Page_SelectScenario.BeginScenarioConfiguration_Patch1(Scenario, Page)
+RimWorld.Page_SelectScenario:CanDoNext()
+RimWorld.Page:DoBottomButtons(Rect, String, String, Action, Boolean, Boolean)
+RimWorld.Page_SelectScenario:DoWindowContents(Rect)
+Verse.Window:InnerWindowOnGUI(Int32)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, Int32, GUISkin, Int32, Single, Single, GUIStyle)
+
+[ATPP] BlacklistigOtherAR  : Corpse_HAR_Silkiera
+Verse.Log:Message(String, Boolean)
+MOARANDROIDS.GC_ATPP:.ctor(Game)
+System.Reflection.MonoCMethod:InternalInvoke(Object, Object[], Exception&)
+System.Reflection.MonoCMethod:InternalInvoke(Object, Object[])
+System.Reflection.MonoCMethod:DoInvoke(Object, BindingFlags, Binder, Object[], CultureInfo)
+System.Reflection.MonoCMethod:Invoke(BindingFlags, Binder, Object[], CultureInfo)
+System.RuntimeType:CreateInstanceImpl(BindingFlags, Binder, Object[], CultureInfo, Object[], StackCrawlMark&)
+System.Activator:CreateInstance(Type, BindingFlags, Binder, Object[], CultureInfo, Object[])
+System.Activator:CreateInstance(Type, Object[])
+Verse.Game:Verse.Game.FillComponents_Patch1(Game)
+Verse.Game:.ctor()
+RimWorld.Page_SelectScenario:RimWorld.Page_SelectScenario.BeginScenarioConfiguration_Patch1(Scenario, Page)
+RimWorld.Page_SelectScenario:CanDoNext()
+RimWorld.Page:DoBottomButtons(Rect, String, String, Action, Boolean, Boolean)
+RimWorld.Page_SelectScenario:DoWindowContents(Rect)
+Verse.Window:InnerWindowOnGUI(Int32)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, Int32, GUISkin, Int32, Single, Single, GUIStyle)
+
+[ATPP] BlacklistigOtherAR  : Corpse_Vulpes
+Verse.Log:Message(String, Boolean)
+MOARANDROIDS.GC_ATPP:.ctor(Game)
+System.Reflection.MonoCMethod:InternalInvoke(Object, Object[], Exception&)
+System.Reflection.MonoCMethod:InternalInvoke(Object, Object[])
+System.Reflection.MonoCMethod:DoInvoke(Object, BindingFlags, Binder, Object[], CultureInfo)
+System.Reflection.MonoCMethod:Invoke(BindingFlags, Binder, Object[], CultureInfo)
+System.RuntimeType:CreateInstanceImpl(BindingFlags, Binder, Object[], CultureInfo, Object[], StackCrawlMark&)
+System.Activator:CreateInstance(Type, BindingFlags, Binder, Object[], CultureInfo, Object[])
+System.Activator:CreateInstance(Type, Object[])
+Verse.Game:Verse.Game.FillComponents_Patch1(Game)
+Verse.Game:.ctor()
+RimWorld.Page_SelectScenario:RimWorld.Page_SelectScenario.BeginScenarioConfiguration_Patch1(Scenario, Page)
+RimWorld.Page_SelectScenario:CanDoNext()
+RimWorld.Page:DoBottomButtons(Rect, String, String, Action, Boolean, Boolean)
+RimWorld.Page_SelectScenario:DoWindowContents(Rect)
+Verse.Window:InnerWindowOnGUI(Int32)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, Int32, GUISkin, Int32, Single, Single, GUIStyle)
+
+[ATPP] BlacklistigOtherAR  : Corpse_Dragonian_Female
+Verse.Log:Message(String, Boolean)
+MOARANDROIDS.GC_ATPP:.ctor(Game)
+System.Reflection.MonoCMethod:InternalInvoke(Object, Object[], Exception&)
+System.Reflection.MonoCMethod:InternalInvoke(Object, Object[])
+System.Reflection.MonoCMethod:DoInvoke(Object, BindingFlags, Binder, Object[], CultureInfo)
+System.Reflection.MonoCMethod:Invoke(BindingFlags, Binder, Object[], CultureInfo)
+System.RuntimeType:CreateInstanceImpl(BindingFlags, Binder, Object[], CultureInfo, Object[], StackCrawlMark&)
+System.Activator:CreateInstance(Type, BindingFlags, Binder, Object[], CultureInfo, Object[])
+System.Activator:CreateInstance(Type, Object[])
+Verse.Game:Verse.Game.FillComponents_Patch1(Game)
+Verse.Game:.ctor()
+RimWorld.Page_SelectScenario:RimWorld.Page_SelectScenario.BeginScenarioConfiguration_Patch1(Scenario, Page)
+RimWorld.Page_SelectScenario:CanDoNext()
+RimWorld.Page:DoBottomButtons(Rect, String, String, Action, Boolean, Boolean)
+RimWorld.Page_SelectScenario:DoWindowContents(Rect)
+Verse.Window:InnerWindowOnGUI(Int32)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, Int32, GUISkin, Int32, Single, Single, GUIStyle)
+
+[ATPP] BlacklistigOtherAR  : Corpse_Dragonian_Male
+Verse.Log:Message(String, Boolean)
+MOARANDROIDS.GC_ATPP:.ctor(Game)
+System.Reflection.MonoCMethod:InternalInvoke(Object, Object[], Exception&)
+System.Reflection.MonoCMethod:InternalInvoke(Object, Object[])
+System.Reflection.MonoCMethod:DoInvoke(Object, BindingFlags, Binder, Object[], CultureInfo)
+System.Reflection.MonoCMethod:Invoke(BindingFlags, Binder, Object[], CultureInfo)
+System.RuntimeType:CreateInstanceImpl(BindingFlags, Binder, Object[], CultureInfo, Object[], StackCrawlMark&)
+System.Activator:CreateInstance(Type, BindingFlags, Binder, Object[], CultureInfo, Object[])
+System.Activator:CreateInstance(Type, Object[])
+Verse.Game:Verse.Game.FillComponents_Patch1(Game)
+Verse.Game:.ctor()
+RimWorld.Page_SelectScenario:RimWorld.Page_SelectScenario.BeginScenarioConfiguration_Patch1(Scenario, Page)
+RimWorld.Page_SelectScenario:CanDoNext()
+RimWorld.Page:DoBottomButtons(Rect, String, String, Action, Boolean, Boolean)
+RimWorld.Page_SelectScenario:DoWindowContents(Rect)
+Verse.Window:InnerWindowOnGUI(Int32)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, Int32, GUISkin, Int32, Single, Single, GUIStyle)
+
+[ATPP] BlacklistigOtherAR  : Corpse_Ratkin
+Verse.Log:Message(String, Boolean)
+MOARANDROIDS.GC_ATPP:.ctor(Game)
+System.Reflection.MonoCMethod:InternalInvoke(Object, Object[], Exception&)
+System.Reflection.MonoCMethod:InternalInvoke(Object, Object[])
+System.Reflection.MonoCMethod:DoInvoke(Object, BindingFlags, Binder, Object[], CultureInfo)
+System.Reflection.MonoCMethod:Invoke(BindingFlags, Binder, Object[], CultureInfo)
+System.RuntimeType:CreateInstanceImpl(BindingFlags, Binder, Object[], CultureInfo, Object[], StackCrawlMark&)
+System.Activator:CreateInstance(Type, BindingFlags, Binder, Object[], CultureInfo, Object[])
+System.Activator:CreateInstance(Type, Object[])
+Verse.Game:Verse.Game.FillComponents_Patch1(Game)
+Verse.Game:.ctor()
+RimWorld.Page_SelectScenario:RimWorld.Page_SelectScenario.BeginScenarioConfiguration_Patch1(Scenario, Page)
+RimWorld.Page_SelectScenario:CanDoNext()
+RimWorld.Page:DoBottomButtons(Rect, String, String, Action, Boolean, Boolean)
+RimWorld.Page_SelectScenario:DoWindowContents(Rect)
+Verse.Window:InnerWindowOnGUI(Int32)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, Int32, GUISkin, Int32, Single, Single, GUIStyle)
+
+[ATPP] BlacklistigOtherAR  : Corpse_Ratkin_Su
+Verse.Log:Message(String, Boolean)
+MOARANDROIDS.GC_ATPP:.ctor(Game)
+System.Reflection.MonoCMethod:InternalInvoke(Object, Object[], Exception&)
+System.Reflection.MonoCMethod:InternalInvoke(Object, Object[])
+System.Reflection.MonoCMethod:DoInvoke(Object, BindingFlags, Binder, Object[], CultureInfo)
+System.Reflection.MonoCMethod:Invoke(BindingFlags, Binder, Object[], CultureInfo)
+System.RuntimeType:CreateInstanceImpl(BindingFlags, Binder, Object[], CultureInfo, Object[], StackCrawlMark&)
+System.Activator:CreateInstance(Type, BindingFlags, Binder, Object[], CultureInfo, Object[])
+System.Activator:CreateInstance(Type, Object[])
+Verse.Game:Verse.Game.FillComponents_Patch1(Game)
+Verse.Game:.ctor()
+RimWorld.Page_SelectScenario:RimWorld.Page_SelectScenario.BeginScenarioConfiguration_Patch1(Scenario, Page)
+RimWorld.Page_SelectScenario:CanDoNext()
+RimWorld.Page:DoBottomButtons(Rect, String, String, Action, Boolean, Boolean)
+RimWorld.Page_SelectScenario:DoWindowContents(Rect)
+Verse.Window:InnerWindowOnGUI(Int32)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, Int32, GUISkin, Int32, Single, Single, GUIStyle)
+
+[ATPP] BlacklistigOtherAR  : Corpse_Kurin_Race
+Verse.Log:Message(String, Boolean)
+MOARANDROIDS.GC_ATPP:.ctor(Game)
+System.Reflection.MonoCMethod:InternalInvoke(Object, Object[], Exception&)
+System.Reflection.MonoCMethod:InternalInvoke(Object, Object[])
+System.Reflection.MonoCMethod:DoInvoke(Object, BindingFlags, Binder, Object[], CultureInfo)
+System.Reflection.MonoCMethod:Invoke(BindingFlags, Binder, Object[], CultureInfo)
+System.RuntimeType:CreateInstanceImpl(BindingFlags, Binder, Object[], CultureInfo, Object[], StackCrawlMark&)
+System.Activator:CreateInstance(Type, BindingFlags, Binder, Object[], CultureInfo, Object[])
+System.Activator:CreateInstance(Type, Object[])
+Verse.Game:Verse.Game.FillComponents_Patch1(Game)
+Verse.Game:.ctor()
+RimWorld.Page_SelectScenario:RimWorld.Page_SelectScenario.BeginScenarioConfiguration_Patch1(Scenario, Page)
+RimWorld.Page_SelectScenario:CanDoNext()
+RimWorld.Page:DoBottomButtons(Rect, String, String, Action, Boolean, Boolean)
+RimWorld.Page_SelectScenario:DoWindowContents(Rect)
+Verse.Window:InnerWindowOnGUI(Int32)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, Int32, GUISkin, Int32, Single, Single, GUIStyle)
+
+[ATPP] BlacklistigOtherAR  : Corpse_Alien_Kijin
+Verse.Log:Message(String, Boolean)
+MOARANDROIDS.GC_ATPP:.ctor(Game)
+System.Reflection.MonoCMethod:InternalInvoke(Object, Object[], Exception&)
+System.Reflection.MonoCMethod:InternalInvoke(Object, Object[])
+System.Reflection.MonoCMethod:DoInvoke(Object, BindingFlags, Binder, Object[], CultureInfo)
+System.Reflection.MonoCMethod:Invoke(BindingFlags, Binder, Object[], CultureInfo)
+System.RuntimeType:CreateInstanceImpl(BindingFlags, Binder, Object[], CultureInfo, Object[], StackCrawlMark&)
+System.Activator:CreateInstance(Type, BindingFlags, Binder, Object[], CultureInfo, Object[])
+System.Activator:CreateInstance(Type, Object[])
+Verse.Game:Verse.Game.FillComponents_Patch1(Game)
+Verse.Game:.ctor()
+RimWorld.Page_SelectScenario:RimWorld.Page_SelectScenario.BeginScenarioConfiguration_Patch1(Scenario, Page)
+RimWorld.Page_SelectScenario:CanDoNext()
+RimWorld.Page:DoBottomButtons(Rect, String, String, Action, Boolean, Boolean)
+RimWorld.Page_SelectScenario:DoWindowContents(Rect)
+Verse.Window:InnerWindowOnGUI(Int32)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, Int32, GUISkin, Int32, Single, Single, GUIStyle)
+
+[ATPP] BlacklistigOtherAR  : Corpse_Mincho_ThingDef
+Verse.Log:Message(String, Boolean)
+MOARANDROIDS.GC_ATPP:.ctor(Game)
+System.Reflection.MonoCMethod:InternalInvoke(Object, Object[], Exception&)
+System.Reflection.MonoCMethod:InternalInvoke(Object, Object[])
+System.Reflection.MonoCMethod:DoInvoke(Object, BindingFlags, Binder, Object[], CultureInfo)
+System.Reflection.MonoCMethod:Invoke(BindingFlags, Binder, Object[], CultureInfo)
+System.RuntimeType:CreateInstanceImpl(BindingFlags, Binder, Object[], CultureInfo, Object[], StackCrawlMark&)
+System.Activator:CreateInstance(Type, BindingFlags, Binder, Object[], CultureInfo, Object[])
+System.Activator:CreateInstance(Type, Object[])
+Verse.Game:Verse.Game.FillComponents_Patch1(Game)
+Verse.Game:.ctor()
+RimWorld.Page_SelectScenario:RimWorld.Page_SelectScenario.BeginScenarioConfiguration_Patch1(Scenario, Page)
+RimWorld.Page_SelectScenario:CanDoNext()
+RimWorld.Page:DoBottomButtons(Rect, String, String, Action, Boolean, Boolean)
+RimWorld.Page_SelectScenario:DoWindowContents(Rect)
+Verse.Window:InnerWindowOnGUI(Int32)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, Int32, GUISkin, Int32, Single, Single, GUIStyle)
+
+[ATPP] BlacklistigOtherAR  : Corpse_AOC
+Verse.Log:Message(String, Boolean)
+MOARANDROIDS.GC_ATPP:.ctor(Game)
+System.Reflection.MonoCMethod:InternalInvoke(Object, Object[], Exception&)
+System.Reflection.MonoCMethod:InternalInvoke(Object, Object[])
+System.Reflection.MonoCMethod:DoInvoke(Object, BindingFlags, Binder, Object[], CultureInfo)
+System.Reflection.MonoCMethod:Invoke(BindingFlags, Binder, Object[], CultureInfo)
+System.RuntimeType:CreateInstanceImpl(BindingFlags, Binder, Object[], CultureInfo, Object[], StackCrawlMark&)
+System.Activator:CreateInstance(Type, BindingFlags, Binder, Object[], CultureInfo, Object[])
+System.Activator:CreateInstance(Type, Object[])
+Verse.Game:Verse.Game.FillComponents_Patch1(Game)
+Verse.Game:.ctor()
+RimWorld.Page_SelectScenario:RimWorld.Page_SelectScenario.BeginScenarioConfiguration_Patch1(Scenario, Page)
+RimWorld.Page_SelectScenario:CanDoNext()
+RimWorld.Page:DoBottomButtons(Rect, String, String, Action, Boolean, Boolean)
+RimWorld.Page_SelectScenario:DoWindowContents(Rect)
+Verse.Window:InnerWindowOnGUI(Int32)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, Int32, GUISkin, Int32, Single, Single, GUIStyle)
+
+[ATPP] SaveOurShip2Patching Parameter "thePawn" not found in method static System.Boolean SaveOurShip2.ShipInteriorMod2::hasSpaceSuit(Verse.Pawn pawn)   at HarmonyLib.MethodPatcher.EmitCallParameter (System.Reflection.MethodInfo patch, System.Collections.Generic.Dictionary`2[TKey,TValue] variables, System.Reflection.Emit.LocalBuilder runOriginalVariable, System.Boolean allowFirsParamPassthrough, System.Reflection.Emit.LocalBuilder& tmpObjectVar, System.Collections.Generic.List`1[T] tmpBoxVars) [0x00798] in <c38a8c3281a047488dac8c9d063b7abb>:0 
+  at HarmonyLib.MethodPatcher+<>c__DisplayClass33_0.<AddPostfixes>b__1 (System.Reflection.MethodInfo fix) [0x00023] in <c38a8c3281a047488dac8c9d063b7abb>:0 
+  at HarmonyLib.CollectionExtensions.Do[T] (System.Collections.Generic.IEnumerable`1[T] sequence, System.Action`1[T] action) [0x00014] in <c38a8c3281a047488dac8c9d063b7abb>:0 
+  at HarmonyLib.MethodPatcher.AddPostfixes (System.Collections.Generic.Dictionary`2[TKey,TValue] variables, System.Boolean passthroughPatches) [0x00039] in <c38a8c3281a047488dac8c9d063b7abb>:0 
+  at HarmonyLib.MethodPatcher.CreateReplacement (System.Collections.Generic.Dictionary`2[System.Int32,HarmonyLib.CodeInstruction]& finalInstructions) [0x0029a] in <c38a8c3281a047488dac8c9d063b7abb>:0 
+  at HarmonyLib.PatchFunctions.UpdateWrapper (System.Reflection.MethodBase original, HarmonyLib.PatchInfo patchInfo) [0x00057] in <c38a8c3281a047488dac8c9d063b7abb>:0 
+  at HarmonyLib.PatchProcessor.Patch () [0x000fc] in <c38a8c3281a047488dac8c9d063b7abb>:0 
+  at HarmonyLib.Harmony.Patch (System.Reflection.MethodBase original, HarmonyLib.HarmonyMethod prefix, HarmonyLib.HarmonyMethod postfix, HarmonyLib.HarmonyMethod transpiler, HarmonyLib.HarmonyMethod finalizer) [0x00028] in <c38a8c3281a047488dac8c9d063b7abb>:0 
+  at MOARANDROIDS.GC_ATPP..ctor (Verse.Game game) [0x0169f] in <56dcae162de2498b9bb4ebfacbf4d8d6>:0 
+Verse.Log:Message(String, Boolean)
+MOARANDROIDS.GC_ATPP:.ctor(Game)
+System.Reflection.MonoCMethod:InternalInvoke(Object, Object[], Exception&)
+System.Reflection.MonoCMethod:InternalInvoke(Object, Object[])
+System.Reflection.MonoCMethod:DoInvoke(Object, BindingFlags, Binder, Object[], CultureInfo)
+System.Reflection.MonoCMethod:Invoke(BindingFlags, Binder, Object[], CultureInfo)
+System.RuntimeType:CreateInstanceImpl(BindingFlags, Binder, Object[], CultureInfo, Object[], StackCrawlMark&)
+System.Activator:CreateInstance(Type, BindingFlags, Binder, Object[], CultureInfo, Object[])
+System.Activator:CreateInstance(Type, Object[])
+Verse.Game:Verse.Game.FillComponents_Patch1(Game)
+Verse.Game:.ctor()
+RimWorld.Page_SelectScenario:RimWorld.Page_SelectScenario.BeginScenarioConfiguration_Patch1(Scenario, Page)
+RimWorld.Page_SelectScenario:CanDoNext()
+RimWorld.Page:DoBottomButtons(Rect, String, String, Action, Boolean, Boolean)
+RimWorld.Page_SelectScenario:DoWindowContents(Rect)
+Verse.Window:InnerWindowOnGUI(Int32)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, Int32, GUISkin, Int32, Single, Single, GUIStyle)
+
+[ATPP] 15 Care job collected for crafting injection
+Verse.Log:Message(String, Boolean)
+MOARANDROIDS.GC_ATPP:.ctor(Game)
+System.Reflection.MonoCMethod:InternalInvoke(Object, Object[], Exception&)
+System.Reflection.MonoCMethod:InternalInvoke(Object, Object[])
+System.Reflection.MonoCMethod:DoInvoke(Object, BindingFlags, Binder, Object[], CultureInfo)
+System.Reflection.MonoCMethod:Invoke(BindingFlags, Binder, Object[], CultureInfo)
+System.RuntimeType:CreateInstanceImpl(BindingFlags, Binder, Object[], CultureInfo, Object[], StackCrawlMark&)
+System.Activator:CreateInstance(Type, BindingFlags, Binder, Object[], CultureInfo, Object[])
+System.Activator:CreateInstance(Type, Object[])
+Verse.Game:Verse.Game.FillComponents_Patch1(Game)
+Verse.Game:.ctor()
+RimWorld.Page_SelectScenario:RimWorld.Page_SelectScenario.BeginScenarioConfiguration_Patch1(Scenario, Page)
+RimWorld.Page_SelectScenario:CanDoNext()
+RimWorld.Page:DoBottomButtons(Rect, String, String, Action, Boolean, Boolean)
+RimWorld.Page_SelectScenario:DoWindowContents(Rect)
+Verse.Window:InnerWindowOnGUI(Int32)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, Int32, GUISkin, Int32, Single, Single, GUIStyle)
+
+[ATPP] 4 MentalBreaks collected
+Verse.Log:Message(String, Boolean)
+MOARANDROIDS.GC_ATPP:.ctor(Game)
+System.Reflection.MonoCMethod:InternalInvoke(Object, Object[], Exception&)
+System.Reflection.MonoCMethod:InternalInvoke(Object, Object[])
+System.Reflection.MonoCMethod:DoInvoke(Object, BindingFlags, Binder, Object[], CultureInfo)
+System.Reflection.MonoCMethod:Invoke(BindingFlags, Binder, Object[], CultureInfo)
+System.RuntimeType:CreateInstanceImpl(BindingFlags, Binder, Object[], CultureInfo, Object[], StackCrawlMark&)
+System.Activator:CreateInstance(Type, BindingFlags, Binder, Object[], CultureInfo, Object[])
+System.Activator:CreateInstance(Type, Object[])
+Verse.Game:Verse.Game.FillComponents_Patch1(Game)
+Verse.Game:.ctor()
+RimWorld.Page_SelectScenario:RimWorld.Page_SelectScenario.BeginScenarioConfiguration_Patch1(Scenario, Page)
+RimWorld.Page_SelectScenario:CanDoNext()
+RimWorld.Page:DoBottomButtons(Rect, String, String, Action, Boolean, Boolean)
+RimWorld.Page_SelectScenario:DoWindowContents(Rect)
+Verse.Window:InnerWindowOnGUI(Int32)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, Int32, GUISkin, Int32, Single, Single, GUIStyle)
+
+[Phinix] Got a UserUpdatePacket
+Verse.Log:Message(String, Boolean)
+HugsLib.Utils.Tracer:Trace(Object[])
+HugsLib.Utils.ModLogger:Trace(Object[])
+PhinixClient.Client:ILoggableHandler(Object, LogEventArgs)
+UserManagement.ClientUserManager:RaiseLogEntry(LogEventArgs)
+UserManagement.ClientUserManager:packetHandler(String, String, Byte[])
+Connections.NetCommon:packetHandlerCallbackWrapper(NetPeer, NetDataReader)
+LiteNetLib.EventBasedNetListener:LiteNetLib.INetEventListener.OnNetworkReceive(NetPeer, NetDataReader)
+LiteNetLib.NetManager:ProcessEvent(NetEvent)
+LiteNetLib.NetManager:PollEvents()
+Connections.NetClient:<Connect>b__16_0()
+System.Threading.ThreadHelper:ThreadStart_Context(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+System.Threading.ThreadHelper:ThreadStart()
+
+Could not instantiate a WorldComponent of type FactionColonies.FactionFC: System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Null method for com.Saakra.Empire
+  at HarmonyLib.PatchProcessor.Patch () [0x0001d] in <c38a8c3281a047488dac8c9d063b7abb>:0 
+  at HarmonyLib.Harmony.Patch (System.Reflection.MethodBase original, HarmonyLib.HarmonyMethod prefix, HarmonyLib.HarmonyMethod postfix, HarmonyLib.HarmonyMethod transpiler, HarmonyLib.HarmonyMethod finalizer) [0x00028] in <c38a8c3281a047488dac8c9d063b7abb>:0 
+  at FactionColonies.SoS2HarmonyPatches.Patch (HarmonyLib.Harmony harmony) [0x000e5] in <453528dea38b4e37806851e688ccb3e8>:0 
+  at FactionColonies.FactionFC..ctor (RimWorld.Planet.World world) [0x0034e] in <453528dea38b4e37806851e688ccb3e8>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoCMethod.InternalInvoke(System.Reflection.MonoCMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00002] in <567df3e0919241ba98db88bec4c6696f>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00014] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Reflection.MonoCMethod.DoInvoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0007a] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Reflection.MonoCMethod.Invoke (System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.RuntimeType.CreateInstanceImpl (System.Reflection.BindingFlags bindingAttr, System.Reflection.Binder binder, System.Object[] args, System.Globalization.CultureInfo culture, System.Object[] activationAttributes, System.Threading.StackCrawlMark& stackMark) [0x00213] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Reflection.BindingFlags bindingAttr, System.Reflection.Binder binder, System.Object[] args, System.Globalization.CultureInfo culture, System.Object[] activationAttributes) [0x00095] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Object[] args) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at RimWorld.Planet.World.FillComponents () [0x00052] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+Verse.Log:Error(String, Boolean)
+RimWorld.Planet.World:FillComponents()
+RimWorld.Planet.World:ConstructComponents()
+RimWorld.Planet.WorldGenStep_Components:GenerateFresh(String)
+RimWorld.Planet.WorldGenerator:GenerateWorld(Single, String, OverallRainfall, OverallTemperature, OverallPopulation)
+Planets_Code.Planets_CreateWorldParams:<CanDoNext>b__17_0()
+Verse.LongEventHandler:RunEventFromAnotherThread(Action)
+Verse.<>c:<UpdateCurrentAsynchronousEvent>b__27_0()
+System.Threading.ThreadHelper:ThreadStart_Context(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+System.Threading.ThreadHelper:ThreadStart()
+
+[Phinix] Got a UserUpdatePacket
+Verse.Log:Message(String, Boolean)
+HugsLib.Utils.Tracer:Trace(Object[])
+HugsLib.Utils.ModLogger:Trace(Object[])
+PhinixClient.Client:ILoggableHandler(Object, LogEventArgs)
+UserManagement.ClientUserManager:RaiseLogEntry(LogEventArgs)
+UserManagement.ClientUserManager:packetHandler(String, String, Byte[])
+Connections.NetCommon:packetHandlerCallbackWrapper(NetPeer, NetDataReader)
+LiteNetLib.EventBasedNetListener:LiteNetLib.INetEventListener.OnNetworkReceive(NetPeer, NetDataReader)
+LiteNetLib.NetManager:ProcessEvent(NetEvent)
+LiteNetLib.NetManager:PollEvents()
+Connections.NetClient:<Connect>b__16_0()
+System.Threading.ThreadHelper:ThreadStart_Context(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+System.Threading.ThreadHelper:ThreadStart()
+
+Grammar unresolvable. Root 'r_root'
+
+GRAMMAR RESOLUTION TRACE
+1    r_root → [RULE]
+2      RULE → With no real care for other people, [PAWN_nameDef] fit in perfectly with the pirate crew that had once held [PAWN_objecive] captive. Shortly after joining the crew, [PAWN_nameDef] began to kill anyone or anything that got in [PAWN_possessive] way—including [PAWN_possessive] crewmates.
+3        PAWN_nameDef → <color=#D09B61FF>Cornmint</color>
+         PAWN_objecive → UNRESOLVABLE
+3        PAWN_nameDef → <color=#D09B61FF>Cornmint</color>
+3        PAWN_possessive → her
+3        PAWN_possessive → her
+       RULE → UNRESOLVABLE
+     r_root → UNRESOLVABLE
+
+INCLUDES
+DynamicWrapper
+
+CUSTOM RULES
+■RULE → With no real care for other people, [PAWN_nameDef] fit in perfectly with the pirate crew that had once held [PAWN_objecive] captive. Shortly after joining the crew, [PAWN_nameDef] began to kill anyone or anything that got in [PAWN_possessive] way—including [PAWN_possessive] crewmates.
+■PAWN_nameFull → <color=#D09B61FF>Cornmint Snack</color>
+■PAWN_label → <color=#D09B61FF>Cornmint</color>
+■PAWN_definite → <color=#D09B61FF>Cornmint</color>
+■PAWN_nameDef → <color=#D09B61FF>Cornmint</color>
+■PAWN_indefinite → <color=#D09B61FF>Cornmint</color>
+■PAWN_nameIndef → <color=#D09B61FF>Cornmint</color>
+■PAWN_pronoun → she
+■PAWN_possessive → her
+■PAWN_objective → her
+■PAWN_factionName → <color=#FFFFFFFF>Mincho's new colony</color>
+■PAWN_kind → mincho colonist
+■PAWN_title → Mincho isolationist
+■PAWN_titleIndef → a Mincho isolationist
+■PAWN_titleDef → the Mincho isolationist
+■PAWN_age → 26
+■PAWN_chronologicalAge → 26
+■PAWN_relationInfo → 
+■PAWN_alienRace → Mincho
+
+Verse.Log:Error(String, Boolean)
+Verse.Log:ErrorOnce(String, Int32, Boolean)
+Verse.Grammar.GrammarResolver:ResolveUnsafe(String, GrammarRequest, Boolean&, String, Boolean, Boolean, List`1, List`1, Boolean)
+Verse.Grammar.GrammarResolver:ResolveUnsafe(String, GrammarRequest, String, Boolean, Boolean, List`1, List`1, Boolean)
+Verse.Grammar.GrammarResolver:ResolveUnsafe(String, GrammarRequest, Boolean&, String, Boolean, Boolean, List`1, List`1, Boolean)
+Verse.Grammar.GrammarResolver:ResolveUnsafe(String, GrammarRequest, String, Boolean, Boolean, List`1, List`1, Boolean)
+Verse.Grammar.GrammarResolver:Resolve(String, GrammarRequest, String, Boolean, String, List`1, List`1, Boolean)
+Verse.GenText:AdjustedFor(String, Pawn, String, Boolean)
+Verse.TaggedString:AdjustedFor(Pawn, String, Boolean)
+RimWorld.Backstory:FullDescriptionFor(Pawn)
+CharacterEditor.DialogChangeBackstory:UpdateDictionary()
+CharacterEditor.DialogChangeBackstory:.ctor(Boolean)
+CharacterEditor.BlockBio:AChangeChildhoodUI(Boolean)
+CharacterEditor.SZWidgets:ButtonInvisibleVar(Rect, Action`1, Boolean, String)
+CharacterEditor.BlockBio:DrawBackstory(Int32, Int32)
+CharacterEditor.BlockBio:Draw(Int32, Int32, Int32, Int32)
+CharacterEditor.EditorUI:DrawSelectedTab(Int32, Int32, Int32, Int32)
+CharacterEditor.EditorUI:DoWindowContents(Rect)
+Verse.Window:InnerWindowOnGUI(Int32)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, Int32, GUISkin, Int32, Single, Single, GUIStyle)
+
+[Phinix] Got a UserUpdatePacket
+Verse.Log:Message(String, Boolean)
+HugsLib.Utils.Tracer:Trace(Object[])
+HugsLib.Utils.ModLogger:Trace(Object[])
+PhinixClient.Client:ILoggableHandler(Object, LogEventArgs)
+UserManagement.ClientUserManager:RaiseLogEntry(LogEventArgs)
+UserManagement.ClientUserManager:packetHandler(String, String, Byte[])
+Connections.NetCommon:packetHandlerCallbackWrapper(NetPeer, NetDataReader)
+LiteNetLib.EventBasedNetListener:LiteNetLib.INetEventListener.OnNetworkReceive(NetPeer, NetDataReader)
+LiteNetLib.NetManager:ProcessEvent(NetEvent)
+LiteNetLib.NetManager:PollEvents()
+Connections.NetClient:<Connect>b__16_0()
+System.Threading.ThreadHelper:ThreadStart_Context(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+System.Threading.ThreadHelper:ThreadStart()
+
+Grammar unresolvable. Root 'r_root'
+
+GRAMMAR RESOLUTION TRACE
+1    r_root → [RULE]
+2      RULE → With no real care for other people, [PAWN_nameDef] fit in perfectly with the pirate crew that had once held [PAWN_objecive] captive. Shortly after joining the crew, [PAWN_nameDef] began to kill anyone or anything that got in [PAWN_possessive] way—including [PAWN_possessive] crewmates.
+3        PAWN_nameDef → <color=#D09B61FF>Pennyroyalmint</color>
+         PAWN_objecive → UNRESOLVABLE
+3        PAWN_nameDef → <color=#D09B61FF>Pennyroyalmint</color>
+3        PAWN_possessive → her
+3        PAWN_possessive → her
+       RULE → UNRESOLVABLE
+     r_root → UNRESOLVABLE
+
+INCLUDES
+DynamicWrapper
+
+CUSTOM RULES
+■RULE → With no real care for other people, [PAWN_nameDef] fit in perfectly with the pirate crew that had once held [PAWN_objecive] captive. Shortly after joining the crew, [PAWN_nameDef] began to kill anyone or anything that got in [PAWN_possessive] way—including [PAWN_possessive] crewmates.
+■PAWN_nameFull → <color=#D09B61FF>Pennyroyalmint Dorayaki</color>
+■PAWN_label → <color=#D09B61FF>Pennyroyalmint</color>
+■PAWN_definite → <color=#D09B61FF>Pennyroyalmint</color>
+■PAWN_nameDef → <color=#D09B61FF>Pennyroyalmint</color>
+■PAWN_indefinite → <color=#D09B61FF>Pennyroyalmint</color>
+■PAWN_nameIndef → <color=#D09B61FF>Pennyroyalmint</color>
+■PAWN_pronoun → she
+■PAWN_possessive → her
+■PAWN_objective → her
+■PAWN_factionName → <color=#FFFFFFFF>Mincho's new colony</color>
+■PAWN_kind → mincho colonist
+■PAWN_title → Mincho exploited
+■PAWN_titleIndef → a Mincho exploited
+■PAWN_titleDef → the Mincho exploited
+■PAWN_age → 25
+■PAWN_chronologicalAge → 25
+■PAWN_relationInfo → 
+■PAWN_alienRace → Mincho
+
+Verse.Log:Error(String, Boolean)
+Verse.Log:ErrorOnce(String, Int32, Boolean)
+Verse.Grammar.GrammarResolver:ResolveUnsafe(String, GrammarRequest, Boolean&, String, Boolean, Boolean, List`1, List`1, Boolean)
+Verse.Grammar.GrammarResolver:ResolveUnsafe(String, GrammarRequest, String, Boolean, Boolean, List`1, List`1, Boolean)
+Verse.Grammar.GrammarResolver:ResolveUnsafe(String, GrammarRequest, Boolean&, String, Boolean, Boolean, List`1, List`1, Boolean)
+Verse.Grammar.GrammarResolver:ResolveUnsafe(String, GrammarRequest, String, Boolean, Boolean, List`1, List`1, Boolean)
+Verse.Grammar.GrammarResolver:Resolve(String, GrammarRequest, String, Boolean, String, List`1, List`1, Boolean)
+Verse.GenText:AdjustedFor(String, Pawn, String, Boolean)
+Verse.TaggedString:AdjustedFor(Pawn, String, Boolean)
+RimWorld.Backstory:FullDescriptionFor(Pawn)
+CharacterEditor.DialogChangeBackstory:UpdateDictionary()
+CharacterEditor.DialogChangeBackstory:.ctor(Boolean)
+CharacterEditor.BlockBio:AChangeChildhoodUI(Boolean)
+CharacterEditor.SZWidgets:ButtonInvisibleVar(Rect, Action`1, Boolean, String)
+CharacterEditor.BlockBio:DrawBackstory(Int32, Int32)
+CharacterEditor.BlockBio:Draw(Int32, Int32, Int32, Int32)
+CharacterEditor.EditorUI:DrawSelectedTab(Int32, Int32, Int32, Int32)
+CharacterEditor.EditorUI:DoWindowContents(Rect)
+Verse.Window:InnerWindowOnGUI(Int32)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, Int32, GUISkin, Int32, Single, Single, GUIStyle)
+
+Grammar unresolvable. Root 'r_root'
+
+GRAMMAR RESOLUTION TRACE
+1    r_root → [RULE]
+2      RULE → With no real care for other people, [PAWN_nameDef] fit in perfectly with the pirate crew that had once held [PAWN_objecive] captive. Shortly after joining the crew, [PAWN_nameDef] began to kill anyone or anything that got in [PAWN_possessive] way—including [PAWN_possessive] crewmates.
+3        PAWN_nameDef → <color=#D09B61FF>Pennyroyalmint</color>
+         PAWN_objecive → UNRESOLVABLE
+3        PAWN_nameDef → <color=#D09B61FF>Pennyroyalmint</color>
+3        PAWN_possessive → her
+3        PAWN_possessive → her
+       RULE → UNRESOLVABLE
+     r_root → UNRESOLVABLE
+
+INCLUDES
+DynamicWrapper
+
+CUSTOM RULES
+■RULE → With no real care for other people, [PAWN_nameDef] fit in perfectly with the pirate crew that had once held [PAWN_objecive] captive. Shortly after joining the crew, [PAWN_nameDef] began to kill anyone or anything that got in [PAWN_possessive] way—including [PAWN_possessive] crewmates.
+■PAWN_nameFull → <color=#D09B61FF>Pennyroyalmint Dorayaki</color>
+■PAWN_label → <color=#D09B61FF>Pennyroyalmint</color>
+■PAWN_definite → <color=#D09B61FF>Pennyroyalmint</color>
+■PAWN_nameDef → <color=#D09B61FF>Pennyroyalmint</color>
+■PAWN_indefinite → <color=#D09B61FF>Pennyroyalmint</color>
+■PAWN_nameIndef → <color=#D09B61FF>Pennyroyalmint</color>
+■PAWN_pronoun → she
+■PAWN_possessive → her
+■PAWN_objective → her
+■PAWN_factionName → <color=#FFFFFFFF>Mincho's new colony</color>
+■PAWN_kind → mincho colonist
+■PAWN_title → actor
+■PAWN_titleIndef → a actor
+■PAWN_titleDef → the actor
+■PAWN_age → 25
+■PAWN_chronologicalAge → 25
+■PAWN_relationInfo → 
+■PAWN_alienRace → Mincho
+
+Verse.Log:Error(String, Boolean)
+Verse.Log:ErrorOnce(String, Int32, Boolean)
+Verse.Grammar.GrammarResolver:ResolveUnsafe(String, GrammarRequest, Boolean&, String, Boolean, Boolean, List`1, List`1, Boolean)
+Verse.Grammar.GrammarResolver:ResolveUnsafe(String, GrammarRequest, String, Boolean, Boolean, List`1, List`1, Boolean)
+Verse.Grammar.GrammarResolver:ResolveUnsafe(String, GrammarRequest, Boolean&, String, Boolean, Boolean, List`1, List`1, Boolean)
+Verse.Grammar.GrammarResolver:ResolveUnsafe(String, GrammarRequest, String, Boolean, Boolean, List`1, List`1, Boolean)
+Verse.Grammar.GrammarResolver:Resolve(String, GrammarRequest, String, Boolean, String, List`1, List`1, Boolean)
+Verse.GenText:AdjustedFor(String, Pawn, String, Boolean)
+Verse.TaggedString:AdjustedFor(Pawn, String, Boolean)
+RimWorld.Backstory:FullDescriptionFor(Pawn)
+CharacterEditor.DialogChangeBackstory:UpdateDictionary()
+CharacterEditor.DialogChangeBackstory:.ctor(Boolean)
+CharacterEditor.BlockBio:AChangeChildhoodUI(Boolean)
+CharacterEditor.SZWidgets:ButtonInvisibleVar(Rect, Action`1, Boolean, String)
+CharacterEditor.BlockBio:DrawBackstory(Int32, Int32)
+CharacterEditor.BlockBio:Draw(Int32, Int32, Int32, Int32)
+CharacterEditor.EditorUI:DrawSelectedTab(Int32, Int32, Int32, Int32)
+CharacterEditor.EditorUI:DoWindowContents(Rect)
+Verse.Window:InnerWindowOnGUI(Int32)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, Int32, GUISkin, Int32, Single, Single, GUIStyle)
+
+Grammar unresolvable. Root 'r_root'
+
+GRAMMAR RESOLUTION TRACE
+1    r_root → [RULE]
+2      RULE → With no real care for other people, [PAWN_nameDef] fit in perfectly with the pirate crew that had once held [PAWN_objecive] captive. Shortly after joining the crew, [PAWN_nameDef] began to kill anyone or anything that got in [PAWN_possessive] way—including [PAWN_possessive] crewmates.
+3        PAWN_nameDef → <color=#D09B61FF>Pennyroyalmint</color>
+         PAWN_objecive → UNRESOLVABLE
+3        PAWN_nameDef → <color=#D09B61FF>Pennyroyalmint</color>
+3        PAWN_possessive → her
+3        PAWN_possessive → her
+       RULE → UNRESOLVABLE
+     r_root → UNRESOLVABLE
+
+INCLUDES
+DynamicWrapper
+
+CUSTOM RULES
+■RULE → With no real care for other people, [PAWN_nameDef] fit in perfectly with the pirate crew that had once held [PAWN_objecive] captive. Shortly after joining the crew, [PAWN_nameDef] began to kill anyone or anything that got in [PAWN_possessive] way—including [PAWN_possessive] crewmates.
+■PAWN_nameFull → <color=#D09B61FF>Pennyroyalmint Dorayaki</color>
+■PAWN_label → <color=#D09B61FF>Pennyroyalmint</color>
+■PAWN_definite → <color=#D09B61FF>Pennyroyalmint</color>
+■PAWN_nameDef → <color=#D09B61FF>Pennyroyalmint</color>
+■PAWN_indefinite → <color=#D09B61FF>Pennyroyalmint</color>
+■PAWN_nameIndef → <color=#D09B61FF>Pennyroyalmint</color>
+■PAWN_pronoun → she
+■PAWN_possessive → her
+■PAWN_objective → her
+■PAWN_factionName → <color=#FFFFFFFF>Mincho's new colony</color>
+■PAWN_kind → mincho colonist
+■PAWN_title → adventurer
+■PAWN_titleIndef → a adventurer
+■PAWN_titleDef → the adventurer
+■PAWN_age → 25
+■PAWN_chronologicalAge → 25
+■PAWN_relationInfo → 
+■PAWN_alienRace → Mincho
+
+Verse.Log:Error(String, Boolean)
+Verse.Log:ErrorOnce(String, Int32, Boolean)
+Verse.Grammar.GrammarResolver:ResolveUnsafe(String, GrammarRequest, Boolean&, String, Boolean, Boolean, List`1, List`1, Boolean)
+Verse.Grammar.GrammarResolver:ResolveUnsafe(String, GrammarRequest, String, Boolean, Boolean, List`1, List`1, Boolean)
+Verse.Grammar.GrammarResolver:ResolveUnsafe(String, GrammarRequest, Boolean&, String, Boolean, Boolean, List`1, List`1, Boolean)
+Verse.Grammar.GrammarResolver:ResolveUnsafe(String, GrammarRequest, String, Boolean, Boolean, List`1, List`1, Boolean)
+Verse.Grammar.GrammarResolver:Resolve(String, GrammarRequest, String, Boolean, String, List`1, List`1, Boolean)
+Verse.GenText:AdjustedFor(String, Pawn, String, Boolean)
+Verse.TaggedString:AdjustedFor(Pawn, String, Boolean)
+RimWorld.Backstory:FullDescriptionFor(Pawn)
+CharacterEditor.DialogChangeBackstory:UpdateDictionary()
+CharacterEditor.DialogChangeBackstory:.ctor(Boolean)
+CharacterEditor.BlockBio:AChangeChildhoodUI(Boolean)
+CharacterEditor.SZWidgets:ButtonInvisibleVar(Rect, Action`1, Boolean, String)
+CharacterEditor.BlockBio:DrawBackstory(Int32, Int32)
+CharacterEditor.BlockBio:Draw(Int32, Int32, Int32, Int32)
+CharacterEditor.EditorUI:DrawSelectedTab(Int32, Int32, Int32, Int32)
+CharacterEditor.EditorUI:DoWindowContents(Rect)
+Verse.Window:InnerWindowOnGUI(Int32)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, Int32, GUISkin, Int32, Single, Single, GUIStyle)
+
+[Phinix] Got a UserUpdatePacket
+Verse.Log:Message(String, Boolean)
+HugsLib.Utils.Tracer:Trace(Object[])
+HugsLib.Utils.ModLogger:Trace(Object[])
+PhinixClient.Client:ILoggableHandler(Object, LogEventArgs)
+UserManagement.ClientUserManager:RaiseLogEntry(LogEventArgs)
+UserManagement.ClientUserManager:packetHandler(String, String, Byte[])
+Connections.NetCommon:packetHandlerCallbackWrapper(NetPeer, NetDataReader)
+LiteNetLib.EventBasedNetListener:LiteNetLib.INetEventListener.OnNetworkReceive(NetPeer, NetDataReader)
+LiteNetLib.NetManager:ProcessEvent(NetEvent)
+LiteNetLib.NetManager:PollEvents()
+Connections.NetClient:<Connect>b__16_0()
+System.Threading.ThreadHelper:ThreadStart_Context(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+System.Threading.ThreadHelper:ThreadStart()
+
+Initializing new game with mods:
+  - brrainz.harmony
+  - Ludeon.RimWorld
+  - rupal.rimpymodmanagerdatabase
+  - Ludeon.RimWorld.Royalty
+  - erdelf.HumanoidAlienRaces
+  - CarnySenpai.EnableOversizedWeapons
+  - Atlas.AndroidTiers
+  - Dubwise.Rimatomics
+  - UnlimitedHugs.HugsLib
+  - jecrell.jecstools
+  - Alias.DegeneralizeWork
+  - ratys.rtfuse
+  - ratys.rtsolarflareshield
+  - Ykara.EPOE
+  - rimsenal.core
+  - UnlimitedHugs.MapReroll
+  - UnlimitedHugs.AllowTool
+  - Sandy.RPGStyleInventory.avilmask.Revamped
+  - JBloodthorn.NoLazyDoctors
+  - Simmin.PowerTools
+  - dianawinters.Orassans
+  - Oblitus.SyncGrowth
+  - Mlie.MoreFactionInteraction
+  - OskarPotocki.VanillaFactionsExpanded.Core
+  - rimfridge.kv.rw
+  - LWM.DeepStorage
+  - Ayameduki.HARSilkiera
+  - Toyama.HARSilkiera
+  - usagirei.pocketsand
+  - Troopersmith1.LifeSupport
+  - Teok25.ArchotechExpanded
+  - Uuugggg.ReplaceStuff
+  - Wemd.RealisticDarkness
+  - VanillaExpanded.VFECore
+  - Owlchemist.UndergroundPowerConduits
+  - rimworld.teseng.nohaze
+  - showhair.kv.rw
+  - velc.HatsDisplaySelection
+  - smashphil.carrycapacityfixed
+  - VanillaExpanded.VHE
+  - void.charactereditor
+  - SaucyPigeon.RealisticPlanets
+  - Saakra.Empire
+  - SquirtingElephant.PlanetaryDrill
+  - xedos.industrialcomp
+  - syl.simpleslavery
+  - zylle.MapDesigner
+  - JangoDsoul.SimpleStorage.Ref
+  - jelly.caravangear
+  - VanillaExpanded.VFEMedical
+  - yanzihko.VAF
+  - Rooboid586.RooOsHHDHHairstyles
+  - SickBoyWi.Vault.OnePointOne
+  - Rooboid.Royalhair
+  - SR.BondageBed
+  - Rooboid.Accessoryhair
+  - MalteSchulze.RIMMSqol
+  - Fluffy.ModManager
+  - roolo.whatthehack
+  - Jaxe.Bubbles
+  - GloomyLynx.DragonianRace
+  - ApertureStaff.DragonianRaceWeapons
+  - Solaris.RatkinRaceMod
+  - Seioch.Kurin.HAR
+  - ApertureStaff.DragonianRaceApparelPatch
+  - Invisible.Conduits
+  - kentington.saveourship2
+  - ssulunge.BBBodySupport
+  - ssulunge.KijinRace2
+  - ben.advancedelectricstove
+  - Revolus.WhatsMissing
+  - goudaquiche.MoharFramework
+  - Aelanna.EccentricTech.Cosmetics
+  - Spdskatr.ssBiggerBatteries
+  - gguake.apparelbodyresolver
+  - Unon.NoBurnMetal
+  - Dubwise.DubsBadHygiene
+  - avilmask.CommonSense
+  - dhultgren.keepbedownership
+  - TimmyLiang.TradeHelper
+  - Ogliss.RescueeJoinsPlus
+  - Mlie.CallofCthulhuIndustrialAge
+  - 8Z.DormitoriesNotBarracks
+  - com.yayo.raceQuestPawn
+  - zhrocks11.letstrade
+  - CaptainMuscles.PrioritizeResearch
+  - blues.shortcircuit
+  - Orion.CashRegister
+  - Orion.Gastronomy
+  - CP.Rimdeed
+  - sarg.alphaanimals
+  - Krkr.RocketMan
+  - SutSutMan.MinchoTheMintChocoSlimeHARver
+  - Millap.AOC
+  - VSE.DiegoIndustrial
+  - Mlie.SOS2SpaceGear
+  - Mlie.PicnicArea
+  - LadyCookie.StorageChest
+  - ggfirst.WTHExCore
+  - Orion.Hospitality
+  - iforgotmysocks.CaravanAdventures
+  - Fluffy.Blueprints
+  - Thomotron.Phinix
+  - ssulunge171.KijinHUHRimsenalHApparelHPatch
+  - Ryflamer.HDPawnTextures.HAR
+  - Albion.SparklingWorlds.Full
+Verse.Log:Message(String, Boolean)
+Verse.Game:Verse.Game.InitNewGame_Patch3(Game)
+Verse.<>c:<Start>b__1_2()
+Verse.LongEventHandler:RunEventFromAnotherThread(Action)
+Verse.<>c:<UpdateCurrentAsynchronousEvent>b__27_0()
+System.Threading.ThreadHelper:ThreadStart_Context(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+System.Threading.ThreadHelper:ThreadStart()
+
+ROCKETMAN: <color=red>Warm up</color> started for new map!
+Verse.Log:Message(String, Boolean)
+RocketMan.WarmUpMapComponent:Initialize()
+RocketMan.WarmUpMapComponent:.ctor(Map)
+System.Reflection.MonoCMethod:InternalInvoke(Object, Object[], Exception&)
+System.Reflection.MonoCMethod:InternalInvoke(Object, Object[])
+System.Reflection.MonoCMethod:DoInvoke(Object, BindingFlags, Binder, Object[], CultureInfo)
+System.Reflection.MonoCMethod:Invoke(BindingFlags, Binder, Object[], CultureInfo)
+System.RuntimeType:CreateInstanceImpl(BindingFlags, Binder, Object[], CultureInfo, Object[], StackCrawlMark&)
+System.Activator:CreateInstance(Type, BindingFlags, Binder, Object[], CultureInfo, Object[])
+System.Activator:CreateInstance(Type, Object[])
+Verse.Map:FillComponents()
+Verse.Map:Verse.Map.ConstructComponents_Patch1(Map)
+Verse.MapGenerator:Verse.MapGenerator.GenerateMap_Patch0(IntVec3, MapParent, MapGeneratorDef, IEnumerable`1, Action`1)
+Verse.Game:Verse.Game.InitNewGame_Patch3(Game)
+Verse.<>c:<Start>b__1_2()
+Verse.LongEventHandler:RunEventFromAnotherThread(Action)
+Verse.<>c:<UpdateCurrentAsynchronousEvent>b__27_0()
+System.Threading.ThreadHelper:ThreadStart_Context(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+System.Threading.ThreadHelper:ThreadStart()
+
+[Map Designer] Applying settings
+Verse.Log:Message(String, Boolean)
+MapDesigner.HelperMethods:ApplyBiomeSettings()
+MapDesigner.Patches.MountainSettingsPatch:Prefix()
+RimWorld.GenStep_ElevationFertility:RimWorld.GenStep_ElevationFertility.Generate_Patch2(GenStep_ElevationFertility, Map, GenStepParams)
+Verse.MapGenerator:GenerateContentsIntoMap(IEnumerable`1, Map, Int32)
+Verse.MapGenerator:Verse.MapGenerator.GenerateMap_Patch0(IntVec3, MapParent, MapGeneratorDef, IEnumerable`1, Action`1)
+Verse.Game:Verse.Game.InitNewGame_Patch3(Game)
+Verse.<>c:<Start>b__1_2()
+Verse.LongEventHandler:RunEventFromAnotherThread(Action)
+Verse.<>c:<UpdateCurrentAsynchronousEvent>b__27_0()
+System.Threading.ThreadHelper:ThreadStart_Context(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+System.Threading.ThreadHelper:ThreadStart()
+
+[Map Designer] Terrain settings: Default
+Verse.Log:Message(String, Boolean)
+MapDesigner.HelperMethods:ApplyBiomeSettings()
+MapDesigner.Patches.MountainSettingsPatch:Prefix()
+RimWorld.GenStep_ElevationFertility:RimWorld.GenStep_ElevationFertility.Generate_Patch2(GenStep_ElevationFertility, Map, GenStepParams)
+Verse.MapGenerator:GenerateContentsIntoMap(IEnumerable`1, Map, Int32)
+Verse.MapGenerator:Verse.MapGenerator.GenerateMap_Patch0(IntVec3, MapParent, MapGeneratorDef, IEnumerable`1, Action`1)
+Verse.Game:Verse.Game.InitNewGame_Patch3(Game)
+Verse.<>c:<Start>b__1_2()
+Verse.LongEventHandler:RunEventFromAnotherThread(Action)
+Verse.<>c:<UpdateCurrentAsynchronousEvent>b__27_0()
+System.Threading.ThreadHelper:ThreadStart_Context(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+System.Threading.ThreadHelper:ThreadStart()
+
+Exception while generating thing set: System.NullReferenceException: Object reference not set to an instance of an object
+  at FactionColonies.FactionFC+MercenaryDied.Prefix (Verse.Pawn __instance) [0x0000c] in <453528dea38b4e37806851e688ccb3e8>:0 
+  at (wrapper dynamic-method) Verse.Pawn.Verse.Pawn.Kill_Patch10(Verse.Pawn,System.Nullable`1<Verse.DamageInfo>,Verse.Hediff)
+  at (wrapper dynamic-method) Verse.Pawn_HealthTracker.Verse.Pawn_HealthTracker.CheckForStateChange_Patch3(Verse.Pawn_HealthTracker,System.Nullable`1<Verse.DamageInfo>,Verse.Hediff)
+  at (wrapper dynamic-method) Verse.Pawn_HealthTracker.Verse.Pawn_HealthTracker.AddHediff_Patch4(Verse.Pawn_HealthTracker,Verse.Hediff,Verse.BodyPartRecord,System.Nullable`1<Verse.DamageInfo>,Verse.DamageWorker/DamageResult)
+  at Verse.DamageWorker_AddInjury.FinalizeAndAddInjury (Verse.Pawn pawn, Verse.Hediff_Injury injury, Verse.DamageInfo dinfo, Verse.DamageWorker+DamageResult result) [0x00164] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+  at Verse.DamageWorker_AddInjury.FinalizeAndAddInjury (Verse.Pawn pawn, System.Single totalDamage, Verse.DamageInfo dinfo, Verse.DamageWorker+DamageResult result) [0x000c2] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+  at (wrapper dynamic-method) Verse.DamageWorker_Blunt.Verse.DamageWorker_Blunt.ApplySpecialEffectsToPart_Patch0(Verse.DamageWorker_Blunt,Verse.Pawn,single,Verse.DamageInfo,Verse.DamageWorker/DamageResult)
+  at (wrapper dynamic-method) Verse.DamageWorker_AddInjury.Verse.DamageWorker_AddInjury.ApplyDamageToPart_Patch1(Verse.DamageWorker_AddInjury,Verse.DamageInfo,Verse.Pawn,Verse.DamageWorker/DamageResult)
+  at Verse.DamageWorker_AddInjury.ApplyToPawn (Verse.DamageInfo dinfo, Verse.Pawn pawn) [0x00091] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+  at Verse.DamageWorker_AddInjury.Apply (Verse.DamageInfo dinfo, Verse.Thing thing) [0x00013] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+  at (wrapper dynamic-method) Verse.Thing.Verse.Thing.TakeDamage_Patch1(Verse.Thing,Verse.DamageInfo)
+  at Verse.HealthUtility.DamageUntilDead (Verse.Pawn p) [0x00083] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+  at RimWorld.ThingSetMaker_MapGen_AncientPodContents.GenerateSlave () [0x00083] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+  at RimWorld.ThingSetMaker_MapGen_AncientPodContents.Generate (RimWorld.ThingSetMakerParams parms, System.Collections.Generic.List`1[T] outThings) [0x00067] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+  at (wrapper dynamic-method) RimWorld.ThingSetMaker.RimWorld.ThingSetMaker.Generate_Patch1(RimWorld.ThingSetMaker,RimWorld.ThingSetMakerParams)
+Verse.Log:Error(String, Boolean)
+RimWorld.ThingSetMaker:RimWorld.ThingSetMaker.Generate_Patch1(ThingSetMaker, ThingSetMakerParams)
+RimWorld.BaseGen.SymbolResolver_AncientCryptosleepCasket:Resolve(ResolveParams)
+RimWorld.BaseGen.BaseGen:Resolve(Element)
+RimWorld.BaseGen.BaseGen:Generate()
+RimWorld.GenStep_ScatterShrines:ScatterAt(IntVec3, Map, GenStepParams, Int32)
+Verse.GenStep_Scatterer:Generate(Map, GenStepParams)
+Verse.MapGenerator:GenerateContentsIntoMap(IEnumerable`1, Map, Int32)
+Verse.MapGenerator:Verse.MapGenerator.GenerateMap_Patch0(IntVec3, MapParent, MapGeneratorDef, IEnumerable`1, Action`1)
+Verse.Game:Verse.Game.InitNewGame_Patch3(Game)
+Verse.<>c:<Start>b__1_2()
+Verse.LongEventHandler:RunEventFromAnotherThread(Action)
+Verse.<>c:<UpdateCurrentAsynchronousEvent>b__27_0()
+System.Threading.ThreadHelper:ThreadStart_Context(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+System.Threading.ThreadHelper:ThreadStart()
+
+Cleaned up 0 deprecated records from What the Hack!?
+Verse.Log:Message(String, Boolean)
+WhatTheHack.Storage.ExtendedDataStorage:Cleanup()
+WhatTheHack.Base:WorldLoaded()
+HugsLib.HugsLibController:OnPlayingStateEntered()
+HugsLib.Patches.Game_FinalizeInit_Patch:WorldLoadedHook()
+Verse.Game:Verse.Game.FinalizeInit_Patch2(Game)
+Verse.Game:Verse.Game.InitNewGame_Patch3(Game)
+Verse.<>c:<Start>b__1_2()
+Verse.LongEventHandler:RunEventFromAnotherThread(Action)
+Verse.<>c:<UpdateCurrentAsynchronousEvent>b__27_0()
+System.Threading.ThreadHelper:ThreadStart_Context(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+System.Threading.ThreadHelper:ThreadStart()
+
+Exception from asynchronous event: System.NullReferenceException: Object reference not set to an instance of an object
+  at FactionColonies.FactionFC+ResearchCompleted.Postfix (Verse.ResearchProjectDef proj, System.Boolean doCompletionDialog, Verse.Pawn researcher) [0x0000c] in <453528dea38b4e37806851e688ccb3e8>:0 
+  at (wrapper dynamic-method) RimWorld.ResearchManager.RimWorld.ResearchManager.FinishProject_Patch2(RimWorld.ResearchManager,Verse.ResearchProjectDef,bool,Verse.Pawn)
+  at (wrapper dynamic-method) Verse.Game.Verse.Game.InitNewGame_Patch3(Verse.Game)
+  at Verse.Root_Play+<>c.<Start>b__1_2 () [0x00011] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+  at Verse.LongEventHandler.RunEventFromAnotherThread (System.Action action) [0x00008] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+Verse.Log:Error(String, Boolean)
+Verse.LongEventHandler:RunEventFromAnotherThread(Action)
+Verse.<>c:<UpdateCurrentAsynchronousEvent>b__27_0()
+System.Threading.ThreadHelper:ThreadStart_Context(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+System.Threading.ThreadHelper:ThreadStart()
+
+[HugsLib][ERR] Exception while parsing manifest file:
+packageId:syl.simpleslavery, path:J:\RimWorld.v1.2.2900\Mods\2144935009\About\Manifest.xml, exception:System.Exception: Failed to parse version tag. ---> System.FormatException: Input string was not in a correct format.
+  at System.Version+VersionResult.SetFailure (System.Version+ParseFailureKind failure, System.String argument) [0x0001c] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Version.TryParseComponent (System.String component, System.String componentName, System.Version+VersionResult& result, System.Int32& parsedComponent) [0x0000f] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Version.TryParseVersion (System.String version, System.Version+VersionResult& result) [0x00067] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Version.Parse (System.String input) [0x00023] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at HugsLib.Core.ManifestFile.ParseXmlDocument (System.Xml.Linq.XDocument doc) [0x0005a] in <e4b32d84f714481f906e5eea5e560e3b>:0 
+   --- End of inner exception stack trace ---
+  at HugsLib.Core.ManifestFile.ParseXmlDocument (System.Xml.Linq.XDocument doc) [0x00075] in <e4b32d84f714481f906e5eea5e560e3b>:0 
+  at HugsLib.Core.ManifestFile..ctor (System.Xml.Linq.XDocument doc) [0x00008] in <e4b32d84f714481f906e5eea5e560e3b>:0 
+  at HugsLib.Core.ManifestFile.Parse (Verse.ModContentPack pack) [0x0002d] in <e4b32d84f714481f906e5eea5e560e3b>:0 
+  at HugsLib.Core.ManifestFile.TryParse (Verse.ModContentPack pack, System.Boolean logError) [0x0000b] in <e4b32d84f714481f906e5eea5e560e3b>:0 
+Verse.Log:Error(String, Boolean)
+HugsLib.Utils.ModLogger:Error(String, Object[])
+HugsLib.Core.ManifestFile:TryParse(ModContentPack, Boolean)
+HugsLib.Logs.LogPublisher:TryAppendManifestVersion(StringBuilder, ModContentPack)
+HugsLib.Logs.LogPublisher:ListActiveMods()
+HugsLib.Logs.LogPublisher:PrepareLogData()
+HugsLib.Logs.LogPublisher:BeginUpload()
+HugsLib.Logs.LogPublisher:OnPublishConfirmed()
+HugsLib.Logs.Dialog_PublishLogsOptions:OnAcceptKeyPressed()
+HugsLib.Logs.Dialog_PublishLogsOptions:DoWindowContents(Rect)
+Verse.Window:InnerWindowOnGUI(Int32)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, Int32, GUISkin, Int32, Single, Single, GUIStyle)
+
+[HugsLib][warn] Exception during log publishing (gist creation): System.Exception: HTTP/1.1 400 Bad Request
+  at HugsLib.Utils.HugsLibUtility+<>c__DisplayClass22_0.<AwaitUnityWebResponse>b__0 () [0x000a6] in <e4b32d84f714481f906e5eea5e560e3b>:0 
+Verse.Log:Warning(String, Boolean)
+HugsLib.Utils.ModLogger:Warning(String, Object[])
+HugsLib.Logs.LogPublisher:<BeginUpload>b__30_0(Exception)
+HugsLib.Utils.<>c__DisplayClass22_0:<AwaitUnityWebResponse>b__0()
+HugsLib.Utils.DoLaterScheduler:InvokeCallbacks(Queue`1)
+HugsLib.Utils.DoLaterScheduler:OnUpdate()
+HugsLib.HugsLibController:OnUpdate()
+HugsLib.Patches.Root_Patch:UpdateHook()
+Verse.Root:Verse.Root.Update_Patch2(Root)
+Verse.Root_Entry:Update()
+
+[HugsLib][ERR] Exception while parsing manifest file:
+packageId:syl.simpleslavery, path:J:\RimWorld.v1.2.2900\Mods\2144935009\About\Manifest.xml, exception:System.Exception: Failed to parse version tag. ---> System.FormatException: Input string was not in a correct format.
+  at System.Version+VersionResult.SetFailure (System.Version+ParseFailureKind failure, System.String argument) [0x0001c] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Version.TryParseComponent (System.String component, System.String componentName, System.Version+VersionResult& result, System.Int32& parsedComponent) [0x0000f] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Version.TryParseVersion (System.String version, System.Version+VersionResult& result) [0x00067] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Version.Parse (System.String input) [0x00023] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at HugsLib.Core.ManifestFile.ParseXmlDocument (System.Xml.Linq.XDocument doc) [0x0005a] in <e4b32d84f714481f906e5eea5e560e3b>:0 
+   --- End of inner exception stack trace ---
+  at HugsLib.Core.ManifestFile.ParseXmlDocument (System.Xml.Linq.XDocument doc) [0x00075] in <e4b32d84f714481f906e5eea5e560e3b>:0 
+  at HugsLib.Core.ManifestFile..ctor (System.Xml.Linq.XDocument doc) [0x00008] in <e4b32d84f714481f906e5eea5e560e3b>:0 
+  at HugsLib.Core.ManifestFile.Parse (Verse.ModContentPack pack) [0x0002d] in <e4b32d84f714481f906e5eea5e560e3b>:0 
+  at HugsLib.Core.ManifestFile.TryParse (Verse.ModContentPack pack, System.Boolean logError) [0x0000b] in <e4b32d84f714481f906e5eea5e560e3b>:0 
+Verse.Log:Error(String, Boolean)
+HugsLib.Utils.ModLogger:Error(String, Object[])
+HugsLib.Core.ManifestFile:TryParse(ModContentPack, Boolean)
+HugsLib.Logs.LogPublisher:TryAppendManifestVersion(StringBuilder, ModContentPack)
+HugsLib.Logs.LogPublisher:ListActiveMods()
+HugsLib.Logs.LogPublisher:PrepareLogData()
+HugsLib.Logs.LogPublisher:BeginUpload()
+HugsLib.Logs.Dialog_PublishLogs:DoWindowContents(Rect)
+Verse.Window:InnerWindowOnGUI(Int32)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, Int32, GUISkin, Int32, Single, Single, GUIStyle)
+
+[HugsLib][warn] Exception during log publishing (gist creation): System.Exception: HTTP/1.1 400 Bad Request
+  at HugsLib.Utils.HugsLibUtility+<>c__DisplayClass22_0.<AwaitUnityWebResponse>b__0 () [0x000a6] in <e4b32d84f714481f906e5eea5e560e3b>:0 
+Verse.Log:Warning(String, Boolean)
+HugsLib.Utils.ModLogger:Warning(String, Object[])
+HugsLib.Logs.LogPublisher:<BeginUpload>b__30_0(Exception)
+HugsLib.Utils.<>c__DisplayClass22_0:<AwaitUnityWebResponse>b__0()
+HugsLib.Utils.DoLaterScheduler:InvokeCallbacks(Queue`1)
+HugsLib.Utils.DoLaterScheduler:OnUpdate()
+HugsLib.HugsLibController:OnUpdate()
+HugsLib.Patches.Root_Patch:UpdateHook()
+Verse.Root:Verse.Root.Update_Patch2(Root)
+Verse.Root_Entry:Update()
+
+[Phinix] Got a UserUpdatePacket
+Verse.Log:Message(String, Boolean)
+HugsLib.Utils.Tracer:Trace(Object[])
+HugsLib.Utils.ModLogger:Trace(Object[])
+PhinixClient.Client:ILoggableHandler(Object, LogEventArgs)
+UserManagement.ClientUserManager:RaiseLogEntry(LogEventArgs)
+UserManagement.ClientUserManager:packetHandler(String, String, Byte[])
+Connections.NetCommon:packetHandlerCallbackWrapper(NetPeer, NetDataReader)
+LiteNetLib.EventBasedNetListener:LiteNetLib.INetEventListener.OnNetworkReceive(NetPeer, NetDataReader)
+LiteNetLib.NetManager:ProcessEvent(NetEvent)
+LiteNetLib.NetManager:PollEvents()
+Connections.NetClient:<Connect>b__16_0()
+System.Threading.ThreadHelper:ThreadStart_Context(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+System.Threading.ThreadHelper:ThreadStart()
